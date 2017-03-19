@@ -1,4 +1,4 @@
-# vamap
+# sixday 
 
 > A Vue.js project
 
